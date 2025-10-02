@@ -3,9 +3,8 @@ project(Year1Lab C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(Year1Lab main.c
-        local_var.c
-        global_var.c
-        local_global_var.c
-        external_var.h
-        static_var.c)
+add_executable(new_target lab0/global_var.c
+        lab0/local_global_var.c
+        lab0/local_var.c
+        lab0/main.c
+        lab0/static_var.c)
