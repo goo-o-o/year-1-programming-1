@@ -7,4 +7,5 @@ add_executable(new_target lab0/global_var.c
         lab0/local_global_var.c
         lab0/local_var.c
         lab0/main.c
-        lab0/static_var.c)
+        lab0/static_var.c
+        lab1/main.c)
