@@ -39,7 +39,7 @@ void typeCasting(void) {
     printf("Marks: %d / %d\n", marks, total);
     sprintf(buffer, "%.2f", percentage);
 
-    printf("Percentage: %s%%", buffer);
+    printf("Percentage: %s%%\n", buffer);
 }
 
 int main() {
