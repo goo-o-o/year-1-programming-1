@@ -6,8 +6,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-float* inputTemperatures(int dayCount) {
-    float* temps = malloc(dayCount * sizeof(float));
+float *inputTemperatures(int dayCount) {
+    float *temps = malloc(dayCount * sizeof(float));
 
     if (temps == NULL) {
         // Handle memory allocation error
