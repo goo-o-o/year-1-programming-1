@@ -1,0 +1,17 @@
+2025-01-12 08:14:22 INFO System boot initiated
+2025-01-12 08:14:23 INFO Loading kernel modules
+2025-01-12 08:14:25 WARNING Low memory detected: 512MB available
+2025-01-12 08:14:30 INFO Network service starting
+2025-01-12 08:14:35 ERROR Failed to start network service: timeout reached
+2025-01-12 08:14:40 INFO Retrying network service startup
+2025-01-12 08:14:45 INFO Network service started successfully
+2025-01-12 08:15:00 WARNING High CPU usage detected: 92%
+2025-01-12 08:15:20 INFO Disk check initiated
+2025-01-12 08:15:25 ERROR Disk read error on sector 104857
+2025-01-12 08:15:45 INFO Disk check completed with errors
+2025-01-12 08:16:00 INFO Background cleanup process started
+2025-01-12 08:16:30 INFO Cleanup completed successfully
+2025-01-12 08:17:10 WARNING Temperature approaching upper threshold (75°C)
+2025-01-12 08:18:00 INFO System running normally
+2025-01-12 08:14:35 ERROR Failed to start network service: timeout reached
+2025-01-12 08:15:25 ERROR Disk read error on sector 104857
